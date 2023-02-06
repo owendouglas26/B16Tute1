@@ -2,7 +2,7 @@
 
 ### Question 2
 (a)
-Function side-effects are the modification of some non-local stat, e.g. changing the value of a global variable, reading user input fom the console or writing to a file. It is generally a good idea to avoid side-effects since a function can become unpredictable depending on the state of the system. This also makes for easier debugging, testing and formal verification, since the result relies solely on the function's input.
+Function side-effects are the modification of some non-local state, e.g. changing the value of a global variable, reading user input fom the console or writing to a file. It is generally a good idea to avoid side-effects since a function can become unpredictable depending on the state of the system. This also makes for easier debugging, testing and formal verification, since the result relies solely on the function's input.
 Since most programs require some form of I/O operation, side-effects are inevitable and must be handled carefully.
 
 (b)
