@@ -1,6 +1,0 @@
-C:/Users/1owen/Documents/B16Tute1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/1owen/Documents/B16Tute1/cmake-build-debug/CMakeFiles/B16Tute1.dir
-C:/Users/1owen/Documents/B16Tute1/cmake-build-debug/CMakeFiles/Q1.dir
-C:/Users/1owen/Documents/B16Tute1/cmake-build-debug/CMakeFiles/Q2.dir
-C:/Users/1owen/Documents/B16Tute1/cmake-build-debug/CMakeFiles/Q5.dir
-C:/Users/1owen/Documents/B16Tute1/cmake-build-debug/CMakeFiles/edit_cache.dir
