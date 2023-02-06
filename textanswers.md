@@ -17,3 +17,8 @@ The procedure `r()` implements the modulo operation, whereby it computes the rem
 - More descriptive variable and function names.
 
 ### Question 3
+(a)
+In object-oriented programming (OOP), encapsulation is the bundling of data and methods together into a single class. It hides the internal implementation and limits direct access or modification to the internal states and data. This allows for a single consistent interface for the class and abstracts away the internal complexities, meaning developers can use these objects in the intended way and without regard to the internal implementation.
+
+(b) In OOP, polymorphism is the ability to provide a single interface for different underlying data types. Compile-time polymorphism can be achieved by method overloading, whereas runtime polymorphism is accomplished via method overriding. Overloading occurs when methods belonging to the same class have the same name but accept different parameters, and so the correct method to be called can be determined at compile-time. Runtime polymorphism on the other hand is achieved through method overriding, where a method in a subclass has the same signature as a method in its parent class. The correct method to call therefore depends on the type of the object that is used to invoke it, which is determined at runtime. 
+
