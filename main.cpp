@@ -1,8 +1,11 @@
 #include <iostream>
 #include <cmath>
+#include <vector>
+
+// for testing!
 
 int main() {
-    int n = 42;
-    std::cout << std::sqrt(n) << std::endl;
+    std::vector<int> v = {1, 2, 3};
+    std::cout << v[6] << std::endl;
     return 0;
 }
