@@ -10,7 +10,7 @@ class MathVector {
 public:
     // constructors
     MathVector(int length);  // (i)
-    MathVector(int length, std::vector<double>);  // (ii)
+    MathVector(int length, std::vector<double>);  // (ii) 
     MathVector(const MathVector& v);  // (iii)
 
     int get_length() const;

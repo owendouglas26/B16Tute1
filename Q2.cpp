@@ -21,6 +21,8 @@ int calculate_remainder(int num, int divisor) {
     return remainder;
 }
 
+// T: what happens if divisor is negative?
+
 
 int main() {
     int num = 10, divisor = 4;

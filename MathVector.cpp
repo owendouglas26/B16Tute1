@@ -43,3 +43,5 @@ std::vector<double> MathVector::get_vector() const {
     return elements;
 }
 
+
+// T: this generally looks good. You might just want to test the implementation with a simple script.
